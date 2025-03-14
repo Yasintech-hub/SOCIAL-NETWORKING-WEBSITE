@@ -26,7 +26,7 @@ Hosting: AWS / Heroku / Vercel
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/social-networking-website.git
+github :- https://github.com/Yasintech-hub/SOCIAL-NETWORKING-WEBSITE
 cd social-networking-website
 2️⃣ Install dependencies
 
